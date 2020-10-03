@@ -5,11 +5,11 @@
 
 header {
      background-image:url("../images/maggio2020.jpg");
-     background-size: cover;
+     background-size: auto;
      background-repeat: no-repeat;
      background-position: center center;
      border: 0px solid;
-     height: 15em;
+     width: device-width;
 }
 
 header > div {
