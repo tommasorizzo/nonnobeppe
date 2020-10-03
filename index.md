@@ -76,7 +76,7 @@ mollit anim id est laborum.
 Lorem ipsum dolor sit amet, consectetur adipisci elit, sed do eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullamco laboriosam, nisi ut aliquid ex ea commodi consequatur. Duis aute irure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 ---
-### Dal Vangelo secondo Giovanni (14, 1-4)
+### &#8224;Dal Vangelo secondo Giovanni (14, 1-4)
 ---
  «Il vostro cuore non sia turbato; credete in Dio e credete anche in me. Nella casa del Padre mio ci sono molte dimore; se no, ve lo avrei detto; io vado a prepararvi un posto. E quando sarò andato e vi avrò preparato il posto, ritornerò e vi accoglierò presso di me, affinché dove sono io siate anche voi. Voi sapete dove io vado e conoscete anche la via».
 
