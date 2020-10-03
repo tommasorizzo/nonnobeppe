@@ -111,37 +111,6 @@ sicuri ha reso i miei passi.\
 Ha messo sulla mia bocca\
 un nuovo canto di lode.
 
-### Io credo: risorgerò
-_Io credo: risorgerò,\
-questo mio corpo vedrà il Salvatore!_
-
-Prima che io nascessi,\
-mio Dio, tu mi conosci:\
-ricordati, Signore,\
-che l'uomo è come l'erba\
-come il fiore del campo.
-
-_Io credo: risorgerò,\
-questo mio corpo vedrà il Salvatore!_
-
-Ora è nelle tue mani\
-quest'anima che mi hai data:\
-accoglila, Signore,\
-da sempre tu l'hai amata,\
-è preziosa ai tuoi occhi.
-
-_Io credo: risorgerò,\
-questo mio corpo vedrà il Salvatore!_
-
-Padre, che mi hai formato\
-a immagine del tuo volto:\
-conserva in me, Signore,\
-il segno della tua gloria,\
-che risplenda in eterno.
-
-_Io credo: risorgerò,\
-questo mio corpo vedrà il Salvatore!_
-
 ### Le tue meraviglie
 _Ora lascia, o Signore,\
 che io vada in pace\
@@ -181,3 +150,34 @@ perché ho visto le tue meraviglie\
 Il tuo popolo in festa\
 per le strade correrà\
 a portare le tue meraviglie! (x2)_
+
+### Io credo: risorgerò
+_Io credo: risorgerò,\
+questo mio corpo vedrà il Salvatore!_
+
+Prima che io nascessi,\
+mio Dio, tu mi conosci:\
+ricordati, Signore,\
+che l'uomo è come l'erba\
+come il fiore del campo.
+
+_Io credo: risorgerò,\
+questo mio corpo vedrà il Salvatore!_
+
+Ora è nelle tue mani\
+quest'anima che mi hai data:\
+accoglila, Signore,\
+da sempre tu l'hai amata,\
+è preziosa ai tuoi occhi.
+
+_Io credo: risorgerò,\
+questo mio corpo vedrà il Salvatore!_
+
+Padre, che mi hai formato\
+a immagine del tuo volto:\
+conserva in me, Signore,\
+il segno della tua gloria,\
+che risplenda in eterno.
+
+_Io credo: risorgerò,\
+questo mio corpo vedrà il Salvatore!_
