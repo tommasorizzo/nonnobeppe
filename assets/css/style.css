@@ -3,6 +3,11 @@
 
 @import "";
 
+img {
+    display: block;
+    margin: 0 auto;
+}
+
 header{
 width:100%;
 background-image: "/assets/images/maggio2020.jpg";
