@@ -7,7 +7,7 @@ header {
      background-image:url("../images/maggio2020.jpg");
      background-size: contain;
      background-repeat: no-repeat;
-     background-position: center center;
+     background-position: center top;
      border: 0px solid;
      width: device-width;
      height: 12em;
@@ -18,8 +18,9 @@ header {
   height: 100%;
   top: 0;
   left: 0;
-  background: url("../images/maggio2020.jpg") no-repeat center top;
-  position: fixed; 
+  background-image: url("../images/maggio2020.jpg") 
+  background-repeat: no-repeat 
+  background-position: center top;
   z-index: -1;
   -webkit-background-size: cover;
   -moz-background-size: cover;
