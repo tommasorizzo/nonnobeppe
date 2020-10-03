@@ -1,6 +1,3 @@
-## Messa
-
-
 ### Invochiamo la tua presenza
 Invochiamo la tua presenza, vieni Signor\
 Invochiamo la tua presenza, scendi su di noi  
@@ -64,7 +61,27 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed do eiusmod tempor inc
 ---
 ### Canto di Comunione
 
-### Benedizione della Salma
+### Io credo: risorgerò
+_Io credo: risorgerò,\
+questo mio corpo vedrà il Salvatore!_
+
+Prima che io nascessi,\
+mio Dio, tu mi conosci:\
+ricordati, Signore,\
+che l'uomo è come l'erba\
+come il fiore del campo.\
+
+Ora è nelle tue mani\
+quest'anima che mi hai data:\
+accoglila, Signore,\
+da sempre tu l'hai amata,\
+è preziosa ai tuoi occhi.\
+
+Padre, che mi hai formato\
+a immagine del tuo volto:\
+conserva in me, Signore,\
+il segno della tua gloria,\
+che risplenda in eterno.
 
 ### Le tue meraviglie
 _Ora lascia, o Signore,\
