@@ -91,13 +91,13 @@ Prima che io nascessi,\
 mio Dio, tu mi conosci:\
 ricordati, Signore,\
 che l'uomo è come l'erba\
-come il fiore del campo.\
+come il fiore del campo.
 
 Ora è nelle tue mani\
 quest'anima che mi hai data:\
 accoglila, Signore,\
 da sempre tu l'hai amata,\
-è preziosa ai tuoi occhi.\
+è preziosa ai tuoi occhi.
 
 Padre, che mi hai formato\
 a immagine del tuo volto:\
