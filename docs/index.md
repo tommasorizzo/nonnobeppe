@@ -1,29 +1,26 @@
 
 ### Invochiamo la tua presenza
-Invochiamo la tua presenza, vieni Signor
+Invochiamo la tua presenza, vieni Signor  
+Invochiamo la tua presenza, scendi su di noi  
+Vieni consolatore, dona pace ed umiltà  
+Acqua viva d'amore, questo cuore apriamo a te  
 
-Invochiamo la tua presenza, scendi su di noi
+_Vieni spirito, vieni spirito  
+Scendi su di noi  
+Vieni spirito, vieni spirito  
+Scendi su di noi  
+Vieni su noi, Maranathà  
+Vieni su noi spirito  
+Vieni spirito, vieni spirito  
+Scendi su di noi  
+Vieni spirito, vieni spirito  
+Scendi su di noi  
+Scendi su di noi_  
 
-Vieni consolatore, dona pace ed umiltà
-
-Acqua viva d'amore, questo cuore apriamo a te
-
-_Vieni spirito, vieni spirito
-Scendi su di noi
-Vieni spirito, vieni spirito
-Scendi su di noi
-Vieni su noi, Maranathà
-Vieni su noi spirito
-Vieni spirito, vieni spirito
-Scendi su di noi
-Vieni spirito, vieni spirito
-Scendi su di noi
-Scendi su di noi_
-
-Invochiamo la tua presenza, vieni Signor
-Invochiamo la tua presenza, scendi su di noi
-Vieni luce dei cuori, dona forza e fedeltà
-Fuoco eterno d'amore, questa vita offriamo a te
+Invochiamo la tua presenza, vieni Signor  
+Invochiamo la tua presenza, scendi su di noi  
+Vieni luce dei cuori, dona forza e fedeltà  
+Fuoco eterno d'amore, questa vita offriamo a te  
 
 ## Letture
 ### Prima Lettura
