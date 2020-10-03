@@ -13,7 +13,7 @@ header {
      height: 12em;
 }
 
-div#bgimage {
+div.bgimage {
   width: 100%;
   height: 100%;
   top: 0;
@@ -24,6 +24,7 @@ div#bgimage {
   background-position: center top;
   background-attachment: fixed;
   z-index: -1;
+  justify-content: center;
   /*-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
