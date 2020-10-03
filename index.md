@@ -64,23 +64,30 @@ sono riservate ai suoi eletti.
 
 ### Salmo
 ---
-**Lorem ipsum dolor sit amet**
+**Abiterò per sempre nella casa del Signore**
 
-Lorem ipsum dolor sit amet,\
-consectetur adipisci elit,\
-sed do eiusmod tempor incidunt\
-ut labore et dolore magna aliqua.
+Il Signore è il mio pastore:\
+non manco di nulla.\
+Su pascoli erbosi mi fa riposare,\ 
+ad acque tranquille mi conduce.\
+Rinfranca l'anima mia.
 
-Ut enim ad minim veniam,\
-quis nostrum exercitationem ullamco laboriosam,\
-nisi ut aliquid ex ea commodi consequatur.
+Mi guida per il giusto cammino\
+a motivo del suo nome.\
+Anche se vado per una valle oscura,\
+non temo alcun male, perché tu sei con me.\
+Il tuo bastone e il tuo vincastro\
+mi danno sicurezza.
 
-Duis aute irure reprehenderit in voluptate\
-velit esse cillum dolore eu fugiat nulla pariatur.
+Davanti a me tu prepari una mensa\ 
+sotto gli occhi dei miei nemici.\ 
+Ungi di olio il mio capo;\
+il mio calice trabocca.
 
-Excepteur sint obcaecat cupiditat non proident,\
-sunt in culpa qui officia deserunt\
-mollit anim id est laborum.
+Sì, bontà e fedeltà mi saranno compagne\ 
+tutti i giorni della mia vita,\
+abiterò ancora nella casa del Signore\
+per lunghi giorni.
 
 ---
 
