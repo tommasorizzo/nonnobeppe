@@ -35,14 +35,14 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed do eiusmod tempor inc
 
 Lorem ipsum dolor sit amet,\
 consectetur adipisci elit,\
-sed do eiusmod tempor incidunt\ 
+sed do eiusmod tempor incidunt\
 ut labore et dolore magna aliqua.
 
 Ut enim ad minim veniam,\ 
 quis nostrum exercitationem ullamco laboriosam,\
 nisi ut aliquid ex ea commodi consequatur.
 
-Duis aute irure reprehenderit in voluptate\ 
+Duis aute irure reprehenderit in voluptate\
 velit esse cillum dolore eu fugiat nulla pariatur.
 
 Excepteur sint obcaecat cupiditat non proident,\
@@ -88,4 +88,4 @@ le nostre giornate\
 fra la tua gente resterai\
 per sempre vivo in mezzo a noi\
 fino ai confini del tempo\
-così ci accompagnerai.\
+così ci accompagnerai.
