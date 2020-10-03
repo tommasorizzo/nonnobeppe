@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 name: Messa per Nonno Giuseppe
 title: Messa per Nonno Giuseppe
+tag_title_prefix: 'Messa'
 github:
   is_project_page: false
