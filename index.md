@@ -62,7 +62,7 @@ sono riservate ai suoi eletti.
 
 ---
 
-### Salmo
+### Salmo 23
 ---
 **Abiterò per sempre nella casa del Signore**
 
